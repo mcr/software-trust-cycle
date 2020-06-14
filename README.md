@@ -1,12 +1,12 @@
-# ANIMA operational considerations for BRSKI Registrar
+# Software Trust Cycles
 
-The ANIMA WG Bootstrapping Remote Secure Key Infrastructure (BRSKI)
-protocol involves three parties: Pledge (device), Registrar and
-Manufacturer Authorized Signing Authority (MASA).
+This IETF.org Internet Draft deals with the relationships between
+SUIT, BRSKI/RFC8366-vouchers, RATS, and MUD.
 
-This repository contains operational considerations for the Registrar
-function.  It is a candidate document for the ANIMA WG
-http://datatracker.ietf.org/wg/anima 
+Each of these involve signed artifacts, and assumes some configuration of the
+trust anchors that would authenticate the objects.
+
+The repository is at:
 
 
 

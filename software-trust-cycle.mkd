@@ -39,15 +39,21 @@ anchors for the other mechanisms.
 This document explores those relationships and how the can be leveraged to
 simplify secure management of devices.
 
+Pull requests and comments are welcome at: https://github.com/mcr/software-trust-cycle
+
 --- middle
 
 # Introduction
+
+Pull requests and comments are welcome at: https://github.com/mcr/software-trust-cycle
 
 This document starts with a diagram.
 The diagram is in SVG and will be incorporated into this draft, but for now
 it is at:
 
-
+~~~~
+https://github.com/mcr/software-trust-cycle
+~~~~
 
 
 # Privacy Considerations
