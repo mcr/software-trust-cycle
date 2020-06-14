@@ -51,9 +51,7 @@ This document starts with a diagram.
 The diagram is in SVG and will be incorporated into this draft, but for now
 it is at:
 
-~~~~
 https://github.com/mcr/software-trust-cycle/blob/master/trust-cycle-1.svg
-~~~~
 
 
 # Privacy Considerations
