@@ -1,0 +1,71 @@
+---
+title: Trust relationships and Trust Anchors for Software Updates, Remote Attestation and Onboarding
+abbrev: Trust Cycle
+docname: draft-richardson-secdispatch-software-trust-cycle-00
+
+# stand_alone: true
+
+ipr: trust200902
+area: Internet
+wg: Working Group TBD
+kw: Internet-Draft
+cat: std
+
+pi:    # can use array (if all yes) or hash here
+  toc: yes
+  sortrefs:   # defaults to yes
+  symrefs: yes
+
+author:
+
+- ins: M. Richardson
+  name: Michael Richardson
+  org: Sandelman Software Works
+  email: mcr+ietf@sandelman.ca
+
+normative:
+  BCP14: RFC8174
+
+informative:
+
+--- abstract
+
+This document describes the different trust anchors that are
+required by current onboarding, remote attestation and software update
+mechanisms.
+
+While each mechanism needs anchors, it can also be used to provide
+anchors for the other mechanisms.
+This document explores those relationships and how the can be leveraged to
+simplify secure management of devices.
+
+--- middle
+
+# Introduction
+
+This document starts with a diagram.
+The diagram is in SVG and will be incorporated into this draft, but for now
+it is at:
+
+
+
+
+# Privacy Considerations
+
+YYY
+
+# Security Considerations
+
+ZZZ
+
+# IANA Considerations
+
+# Acknowledgements
+
+Hello.
+
+# Changelog
+
+
+--- back
+
